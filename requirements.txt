@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+openai
+faiss-cpu
+langchain
+PyPDF2
+tqdm
+python-dotenv
